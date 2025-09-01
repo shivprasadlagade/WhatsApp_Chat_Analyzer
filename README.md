@@ -1,8 +1,8 @@
-------------------------WhatsApp Chat Analyzer (Streamlit)====================================================
+------------------------WhatsApp Chat Analyzer (Streamlit)-------------------------------------------
 A Streamlit-based WhatsApp Chat Analyzer that lets users upload exported chats to view chat statistics, wordclouds, busiest participant charts, and emoji usage with interactive visuals.
 Includes overall and per-user insights: totals (messages, words, media, links), “Most Busy” bar chart with a detailed table, word frequency cloud, and top-emoji pie chart from local text exports.
 
-====================================Overview------------------------------------------------------------------
+---------------------------------------Overview------------------------------------------------------------------
 Analyze exported WhatsApp chats in the browser with interactive stats, charts, and tables built using Streamlit, Matplotlib, and Seaborn. The app supports overall and per-user breakdowns, including message counts, word counts, media/link counts, busiest users, wordclouds, and emoji distributions.
 
 ----------------------------------------------Features----------------------------------------------------
